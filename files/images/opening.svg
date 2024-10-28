@@ -7,7 +7,7 @@
    width="986"
    height="1280"
    viewBox="0 0 986 1280"
-   sodipodi:docname="ai-generated-8587603_1280.svg"
+   sodipodi:docname="opening.svg"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:zoom="0.61640625"
      inkscape:cx="492.37009"
-     inkscape:cy="380.43093"
+     inkscape:cy="252.26869"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -109,10 +109,10 @@
        style="fill:#80692c;fill-opacity:1;stroke-width:1.0015748;stroke-dasharray:none;paint-order:stroke fill markers" /><text
        xml:space="preserve"
        style="font-size:24px;line-height:8.3;font-family:Poppins;-inkscape-font-specification:Poppins;letter-spacing:4.91px;word-spacing:0.74px;opacity:0.99;fill:#ffff00;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:0.955882;paint-order:stroke fill markers"
-       x="122.57829"
-       y="734.87958"
+       x="99.670273"
+       y="746.23572"
        id="text7"><tspan
          sodipodi:role="line"
          id="tspan7"
-         x="122.57829"
-         y="734.87958">Data Lake Training</tspan></text></g></svg>
+         x="99.670273"
+         y="746.23572">Data Lake Training Logs</tspan></text></g></svg>
